@@ -56,6 +56,12 @@ I'm also a big fan of **vibe coding**. I pair with Claude and Claude Code to get
 | **Digital Map Pathfinding**<br>[Code](https://github.com/NayuD06/digital-map-pathfinding) · [Case&nbsp;study](https://feb20th.click/projects/digital-map-pathfinding) | Team project comparing Dijkstra and A* shortest paths on a real district map from OpenStreetMap, drawn on an interactive Leaflet map | Python · FastAPI · NetworkX · React · Leaflet |
 | **Auth Microservice**<br>[Code](https://github.com/NayuD06/K24WD02-micro-service-auth-api) · [Case&nbsp;study](https://feb20th.click/projects/auth-microservice) | Standalone authentication service: sign-up, login and JWT issuing with bcrypt-hashed passwords and validated request DTOs | NestJS · MongoDB · JWT · Jest |
 
+## 🎲 Fun facts
+
+- ☕ My fuel is **bạc xỉu**, Saigon's milky iced coffee
+- 🎮 I play games to unwind after coding
+- ⚽ Big football fan, always up for a match
+
 ## 🤝 Let's connect
 
 <p>
