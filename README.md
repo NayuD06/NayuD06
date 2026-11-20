@@ -19,7 +19,7 @@ I'm a third-year Information Technology student at **UTH** (Ho Chi Minh City Uni
 
 I'm also a big fan of **vibe coding**. I pair with Claude and Claude Code to get from an idea to a working prototype fast, then read, test and refine the code myself so I understand every part of it.
 
-- 🔭 Currently building **[EduForge AI](https://github.com/NayuD06/EduForge-AI)**, a course and online exam platform with AI question generation from PDFs
+- 🔭 Currently building **[TaskFlow](https://github.com/NayuD06/TaskFlow)** ([live](https://task-flow-sigma-lilac.vercel.app)), a project and task manager with Kanban, list and calendar views
 - 🎓 VTC capstone: **[Nexora Travel](https://www.nexora-travel.agency/)**, a team-built booking site for small-group tours around Vietnam
 - 🌱 Open to internships and freelance projects
 - 🌐 Portfolio: **[feb20th.click](https://feb20th.click)**
@@ -38,7 +38,7 @@ I'm also a big fan of **vibe coding**. I pair with Claude and Claude Code to get
 | **SpendWise**<br>[Code](https://github.com/NayuD06/DEVOPS-Money-Manager) · [Live](https://devops-money-manager-jzgu.vercel.app) · [Case&nbsp;study](https://feb20th.click/projects/spendwise) | Personal finance tracker with JWT auth, category reports and Excel support, Jest tests, Prometheus metrics with alert rules and a GitHub Actions release pipeline | React · Express · MongoDB · Docker · Prometheus |
 | **Online E-Learning**<br>[Code](https://github.com/NayuD06/online_elearning) · [Case&nbsp;study](https://feb20th.click/projects/online-elearning) | E-learning platform with courses and lessons, quizzes, enrollments and orders, reviews, completion certificates and an admin dashboard | PHP · Laravel · MVC · SQL |
 | **Digital Map Pathfinding**<br>[Code](https://github.com/NayuD06/digital-map-pathfinding) · [Case&nbsp;study](https://feb20th.click/projects/digital-map-pathfinding) | Team project comparing Dijkstra and A* shortest paths on a real district map from OpenStreetMap, drawn on an interactive Leaflet map | Python · FastAPI · NetworkX · React · Leaflet |
-| **Auth Microservice**<br>[Code](https://github.com/NayuD06/K24WD02-micro-service-auth-api) · [Case&nbsp;study](https://feb20th.click/projects/auth-microservice) | Standalone authentication service: sign-up, login and JWT issuing with bcrypt-hashed passwords and validated request DTOs | NestJS · MongoDB · JWT · Jest |
+| **TaskFlow**<br>[Code](https://github.com/NayuD06/TaskFlow) · [Live](https://task-flow-sigma-lilac.vercel.app) · [Case&nbsp;study](https://feb20th.click/projects/taskflow) | Project and task manager with Kanban, list and calendar views, drag and drop, tags and filters, reminders, a stats dashboard and Vietnamese/English, installable as a PWA | React · Express · MongoDB · TanStack Query · dnd-kit |
 
 ## 🎲 Fun facts
 
