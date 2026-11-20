@@ -44,7 +44,7 @@ I'm also a big fan of **vibe coding**. I pair with Claude and Claude Code to get
 
 - ☕ My fuel is **bạc xỉu**, Saigon's milky iced coffee
 - 🎮 I play games to unwind after coding
-- ⚽ Big football fan, always up for a match
+- ⚽ Big football fan
 
 ## 🤝 Let's connect
 
