@@ -27,23 +27,7 @@ I'm also a big fan of **vibe coding**. I pair with Claude and Claude Code to get
 
 ## 🛠️ Tech stack
 
-**Languages & frontend**
-<br>
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite,html,css" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, Vite, HTML, CSS">
-
-**Backend**
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,laravel,py,fastapi,go,java" alt="Node.js, NestJS, Express, PHP, Laravel, Python, FastAPI, Go, Java">
-
-**Databases**
-<br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma" alt="PostgreSQL, MySQL, MongoDB, Redis, Prisma">
-
-**Mobile, testing & DevOps**
-<br>
-<img src="https://skillicons.dev/icons?i=flutter,docker,githubactions,prometheus,jest,vercel,git" alt="Flutter, Docker, GitHub Actions, Prometheus, Jest, Vercel, Git">
-
-**AI workflow:** Claude and Claude Code for planning, scaffolding and debugging, plus the Claude API inside my own projects.
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,nestjs,express,laravel,mysql,postgres,mongodb,docker&perline=12" alt="TypeScript, React, Next.js, Tailwind CSS, Node.js, NestJS, Express, Laravel, MySQL, PostgreSQL, MongoDB, Docker">
 
 ## 🚀 Featured projects
 
